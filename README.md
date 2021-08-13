@@ -113,3 +113,5 @@ Now, writing a complete Metadata1 generator is an extremely trivial task.
 # WARNING
 
 ## Please be aware that Metadata1 is extremely sensitive. Any errors within the Metadata1 string can and will result in your Amazon accounts getting suspended!
+
+I am currently offering a Metadata1 API. Please email me [here](mailto:jeff@philobots.io?subject=[Metadata1]%20API%20Inquiry). Or add me on [discord](https://discord.gg/GFtnjas4qV): !Help#0001
