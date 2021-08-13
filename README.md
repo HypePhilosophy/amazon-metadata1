@@ -109,3 +109,7 @@ Since metadata1 is encrypted, I wondered if there was a way to read the browser'
 <img src="https://jeffmao.me/static/assets/img/blog/metadata1/reversed-metadata.png">
 
 Now, writing a complete Metadata1 generator is an extremely trivial task.
+
+# WARNING
+
+## Please be aware that Metadata1 is extremely sensitive. Any errors within the Metadata1 string can and will result in your Amazon accounts getting suspended!
